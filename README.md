@@ -1,2 +1,2 @@
 # A01026567_graficas_202108
-Gráficas computacionales (Gpo 1)
+Andrés Barragán Salas - A01026567
